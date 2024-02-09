@@ -1,0 +1,8 @@
+/*
+CONCEPTOS DE CSS
+
+1. SELECTORES: la manera como cogemos un elemento y le damos valores a cada uno.
+2. HERENCIA: propiedades que se le aplican a un elemento, y que se pasan a sus nodos hijos 
+3. CASCADA: el valor que se aplica a un elemento 3 veces, el ultimo sobreescribira a los dos anteriores
+4. ESPECIFICIDAD: Dependiendo de la forma como apliquemos un valores css aun elemento, ya sea usando etiqueta, clase, id, inline o !important. Se dara mas prioridad a este dicho elemento.
+*/
